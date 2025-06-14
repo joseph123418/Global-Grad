@@ -86,10 +86,8 @@ header a:hover{
     text-align: center;
 }
 #showcase h1{
-  content: "";
-  display: block;
-  margin-bottom: 15px;
-    margin-top: 90px;
+  margin-top: 30px;
+    margin-bottom: 30px;
     font-size: 30px;
     line-height:1.5px;
 }
