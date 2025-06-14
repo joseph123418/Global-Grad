@@ -89,6 +89,8 @@ header a:hover{
     margin-top: 90px;
     font-size: 30px;
     margin-bottom: 30px;
+    display:inline-block;
+    white-space:pre-line;
     line-height: 1.5px;
 }
 #showcase p{
