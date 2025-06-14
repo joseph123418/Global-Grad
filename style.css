@@ -81,7 +81,7 @@ header a:hover{
 /* Showcase */
 #showcase{
     min-height: 400px;
-    background: url('../../img/germany.png') no-repeat center 50%;
+    background: url('germany.png') no-repeat center 50%;
     background-size: cover;
     text-align: center;
 }
